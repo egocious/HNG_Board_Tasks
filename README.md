@@ -1,3 +1,5 @@
 # HNG_Board_Tasks
 
-Welcome
+Welcome to My Board Tasks
+
+I will be using HTML + CSS + Bootstrap, + Python + Django
